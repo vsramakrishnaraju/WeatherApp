@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var descriptionLabel: UILabel!
     @IBOutlet weak var weatherIcon: UIImageView!
     
-    let API_KEY = "80de48d734b9cd12ba43f9209f9785f5"
+    let API_KEY = "ADD_YOUR_KEY"
     
     override func viewDidLoad() {
         super.viewDidLoad()
